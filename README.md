@@ -9,7 +9,7 @@ _28 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://front-end-by-rimantas.github.io/28-grupe-sign-up/
+Site published at https://rainverted.github.io/5-sign-up/
 
 Design: [Sign up](https://cdn.discordapp.com/attachments/648536139677958156/648860801997996052/day1dr.png)
 
