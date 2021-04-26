@@ -1,0 +1,43 @@
+body{
+    background-color: #01B4D5  ;
+}
+
+.container {
+    display:inline-block;
+    width: 800px;
+    margin-top: 100px;
+    margin-left: calc((100% - 800px)/2);
+    background-color: pink;
+}
+
+.left-column{
+    display: inline-block;
+    width: 40%;
+    float: left;
+    background-color: yellow;
+}
+
+.main-title{
+
+
+}
+
+.bottom-links {
+
+}
+
+.bottom-links > span {
+
+}
+
+.right-column {
+
+
+}
+
+.close {
+
+}
+.form {
+
+}
