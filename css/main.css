@@ -20,18 +20,23 @@ body {
 }
 
 .left-column {
-   width: 40%;
+  width: 40%;
   float: left;
   padding: 40px;
-  background-color: #4c46a5;
+  margin-top: 20px;
   color: #fff;
-  padding: 40px;
+  background-color: #4c46a5;
+  background-image: url(../IMG/left\ collumn.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 .main-title {
 }
 
 .bottom-links {
+  margin-top: 400px;
 }
 
 .bottom-links > a {
@@ -49,7 +54,10 @@ body {
 }
 
 .close {
+
 }
+
+
 
 .form {
   display: inline-block;
