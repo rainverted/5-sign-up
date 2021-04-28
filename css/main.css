@@ -82,7 +82,12 @@ body {
   font-size: 30px;
   line-height: 55px;
   color: #999;
+  
+}
 
+.close > a {
+  text-decoration: none;
+  color: #999;
 }
 
 .form {
